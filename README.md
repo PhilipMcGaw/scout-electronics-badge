@@ -31,12 +31,8 @@ How to earn your badge:
 | 9.      | Making rainbows https://www.scouts.org.uk/activities/making-rainbows/                                                     |    |    |    |    |    |    | 7  | 8  | 9  |     |
 | 10.     | Power a lightbulb using potato energy https://www.scouts.org.uk/activities/power-a-lightbulb-using-potato-energy/         |    |    |    |    |    |    |    |    |    | 10  |
 
-https://kitronik.co.uk/blogs/resources/scout-electronics-badge-resources
-https://cms.scouts.org.uk/media/4879/iet-scout-electronics-badge-leaders-notes.pdf
-https://cms.scouts.org.uk/media/4878/iet-scout-electronics-badge-activity-pack.pdf
-https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf
-https://troopwebhost.blob.core.windows.net/troop325fairport/Electronics_Merit_Badge_Pamphlet_20243311118879976104.pdf
-https://www.scouting.org/merit-badges/electronics/
+  * https://kitronik.co.uk/blogs/resources/scout-electronics-badge-resources
+  * https://www.scouting.org/merit-badges/electronics/
 
 
 
