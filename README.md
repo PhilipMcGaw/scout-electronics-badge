@@ -18,7 +18,7 @@ How to earn your badge:
   - Explain the possible uses of the three circuits you built.
   - Talk about the uses and benefits of electronics in everyday life.
     - Explain how electronics can be used to improve lives.
- 
+
 | Number  | Title                                                                                                                     | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
 | 1.      | Learn about resistors https://www.scouts.org.uk/activities/learn-about-resistors/                                         |    | 2  |    |    |    |    |    |    |    |     |
 | 2.      | Ready https://www.scouts.org.uk/activities/ready-steady-solder/                                                           |    |    |    | 4  |    |    |    |    |    |     |
@@ -33,17 +33,18 @@ How to earn your badge:
 
   * https://kitronik.co.uk/blogs/resources/scout-electronics-badge-resources
   * https://www.scouting.org/merit-badges/electronics/
+  * https://cobargoscouts.org.au/jota-joti-electronics.html
 
 
 
   - Describe the safety precautions you must exercise when using, building, altering, or repairing electronic devices.
   - Do the following:
     - Draw a simple schematic diagram. It must show resistors, capacitors, and transistors or integrated circuits. Use the correct symbols. Label all parts.
-    - Tell the purpose of each part. 
+    - Tell the purpose of each part.
   - Do the following:
     - Show the right way to solder and desolder.
     - Show how to avoid heat damage to electronic components.
-    - Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards. 
+    - Tell about the function of a printed circuit board. Tell what precautions should be observed when soldering printed circuit boards.
   - Do the following:
     - Discuss each of the following with your counselor:
       - How to use electronics for a control purpose.
@@ -53,10 +54,10 @@ How to earn your badge:
     - Choose ONE of the following THREE projects. For your project, find or create a schematic diagram. To the best of your ability, explain to your counselor how the circuit you built operates.
       - A control device
       - A digital circuit
-      - An analog circuit. 
+      - An analog circuit.
   - Do the following:
     - Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law
     - Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.
     - Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
-    - Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each. 
+    - Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.
   - Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.

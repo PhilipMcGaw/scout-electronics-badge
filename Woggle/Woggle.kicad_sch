@@ -1025,6 +1025,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers
 				(hide yes)
@@ -2558,7 +2641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a278890-3f9c-4dd9-aae1-4fa3af573d3a")
-		(property "Reference" "D5"
+		(property "Reference" "D9"
 			(at 236.22 101.5364 90)
 			(effects
 				(font
@@ -2621,7 +2704,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D5")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -2861,7 +2944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32f345dd-4293-454c-94bd-7a958481bbd6")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR02"
 			(at 57.15 74.93 0)
 			(effects
 				(font
@@ -2911,7 +2994,71 @@
 		(instances
 			(project ""
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "#PWR04")
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 257.81 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "332abde0-48d8-497e-ab96-740bc153c946")
+		(property "Reference" "Lanyard1"
+			(at 260.35 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 260.35 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_5mm"
+			(at 257.81 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 257.81 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 257.81 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
+					(reference "Lanyard1")
 					(unit 1)
 				)
 			)
@@ -3211,7 +3358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5256e43d-a988-4e5b-b7bd-a96be277fc2d")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR05"
 			(at 142.24 68.58 0)
 			(effects
 				(font
@@ -3261,7 +3408,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "#PWR06")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3426,7 +3573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7276a5d7-cbfb-4ebf-9f40-fefa9b47e283")
-		(property "Reference" "D4"
+		(property "Reference" "D6"
 			(at 218.44 101.6634 90)
 			(effects
 				(font
@@ -3489,7 +3636,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3505,7 +3652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73e9b1e1-2749-40fa-9b03-2c431a4131a1")
-		(property "Reference" "D7"
+		(property "Reference" "D1"
 			(at 209.55 81.2164 90)
 			(effects
 				(font
@@ -3568,7 +3715,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D7")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3584,7 +3731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79cd8514-dea1-4bb1-a900-64c8a1edf579")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR06"
 			(at 142.24 106.68 0)
 			(effects
 				(font
@@ -3634,7 +3781,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "#PWR03")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3650,7 +3797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "829840f4-afad-4816-9e6c-dc63f2328284")
-		(property "Reference" "D9"
+		(property "Reference" "D7"
 			(at 226.06 81.2164 90)
 			(effects
 				(font
@@ -3713,7 +3860,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D9")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -3865,7 +4012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a89c99fc-c41d-4bc6-ab2a-e04562fbfda4")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 209.55 91.3764 90)
 			(effects
 				(font
@@ -3928,7 +4075,7 @@
 		(instances
 			(project ""
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -3944,7 +4091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5e4907e-aa8e-4d63-9ef3-956630671be3")
-		(property "Reference" "D2"
+		(property "Reference" "D5"
 			(at 218.44 91.5034 90)
 			(effects
 				(font
@@ -4007,7 +4154,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D2")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -4094,7 +4241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c11540c7-6c2a-4b91-9091-a70caaafee19")
-		(property "Reference" "D8"
+		(property "Reference" "D4"
 			(at 218.44 81.3434 90)
 			(effects
 				(font
@@ -4157,7 +4304,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D8")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4173,7 +4320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5154c9b-4229-44a8-8d58-8301722eaf06")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR03"
 			(at 102.87 80.01 0)
 			(effects
 				(font
@@ -4223,7 +4370,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "#PWR05")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -4239,7 +4386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfb0930f-ed2c-455b-bddb-5697c9006ef7")
-		(property "Reference" "D6"
+		(property "Reference" "D10"
 			(at 245.11 101.6634 90)
 			(effects
 				(font
@@ -4302,7 +4449,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D6")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -4318,7 +4465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2917ebd-6514-4d6c-9725-fe4121ba6952")
-		(property "Reference" "D10"
+		(property "Reference" "D8"
 			(at 234.95 81.3434 90)
 			(effects
 				(font
@@ -4381,7 +4528,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "D10")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -4465,7 +4612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f99cde55-a9fa-4db3-a1e8-3000b717e6e2")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR04"
 			(at 102.87 92.71 0)
 			(effects
 				(font
@@ -4515,7 +4662,7 @@
 		(instances
 			(project "Woggle"
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
-					(reference "#PWR02")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
