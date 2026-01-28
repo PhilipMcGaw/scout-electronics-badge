@@ -61,3 +61,8 @@ How to earn your badge:
     - Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
     - Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.
   - Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
+
+
+
+
+  https://docs.franzininho.com.br/docs/franzininho-diy/sobre#projeto-open-hardware
