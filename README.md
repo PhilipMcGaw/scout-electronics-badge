@@ -58,7 +58,7 @@ How to earn your badge:
   - Do the following:
     - Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law
     - Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.
-    - Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
+    - Demonstrate to your counsellor how to read the colored bands of a resistor to determine its resistance value.
     - Explain the differences between Through Hole and Surface Mount assembly technologies and give three advantages of each.
   - Identify three career opportunities that would use skills and knowledge in Electronics. Pick one and research the training, education, certification requirements, experience, and expenses associated with entering the field. Research the prospects for employment, starting salary, advancement opportunities and career goals associated with this career. Discuss what you learned with your counselor and whether you might be interested in this career.
 
