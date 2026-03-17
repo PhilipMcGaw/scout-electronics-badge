@@ -2449,6 +2449,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 83.82 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c8ea912-ade0-47ec-8f0e-7e28198795a4")
 		)
@@ -2558,7 +2567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 231.14 78.74 90)
 			(effects
 				(font
@@ -2587,6 +2596,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 231.14 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 231.14 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2665,6 +2683,15 @@
 			)
 		)
 		(property "code" "104"
+			(at 76.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 76.2 57.15 0)
 			(effects
 				(font
@@ -2782,7 +2809,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 200.66 78.74 90)
 			(effects
 				(font
@@ -2811,6 +2838,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 200.66 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2861,7 +2897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 248.92 58.42 90)
 			(effects
 				(font
@@ -2890,6 +2926,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 248.92 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 248.92 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,6 +3078,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 54.61 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/babca5d2-1380-4e56-a1f5-28dbd0ec42c7"
@@ -3134,7 +3188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Scouts:Scouts - Resistor (10.16mm)"
 			(at 176.53 53.34 0)
 			(effects
 				(font
@@ -3154,6 +3208,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 176.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 176.53 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3224,6 +3287,15 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 144.78 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 144.78 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3340,7 +3412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:2 x AAA battery cell holder"
+		(property "Footprint" "Scouts:Scouts - 2 x AAA battery cell holder"
 			(at 43.18 78.486 90)
 			(effects
 				(font
@@ -3359,6 +3431,15 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
+			(at 43.18 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 43.18 80.01 0)
 			(effects
 				(font
@@ -3410,7 +3491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 245.11 58.42 90)
 			(effects
 				(font
@@ -3439,6 +3520,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 245.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 245.11 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3489,7 +3579,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 196.85 78.74 90)
 			(effects
 				(font
@@ -3518,6 +3608,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 196.85 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3568,7 +3667,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 200.66 58.42 90)
 			(effects
 				(font
@@ -3597,6 +3696,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 200.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3713,7 +3821,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 219.71 58.42 90)
 			(effects
 				(font
@@ -3742,6 +3850,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 219.71 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 219.71 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3790,7 +3907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Scouts:Scouts - Resistor (10.16mm)"
 			(at 176.53 58.42 0)
 			(effects
 				(font
@@ -3810,6 +3927,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 176.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 176.53 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3858,7 +3984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Scouts:Scouts - Resistor (10.16mm)"
 			(at 176.53 60.96 0)
 			(effects
 				(font
@@ -3878,6 +4004,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 176.53 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 176.53 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,7 +4063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 196.85 68.58 90)
 			(effects
 				(font
@@ -3957,6 +4092,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 196.85 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4007,7 +4151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 200.66 68.58 90)
 			(effects
 				(font
@@ -4036,6 +4180,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 200.66 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4103,6 +4256,15 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 52.07 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 52.07 71.12 0)
 			(effects
 				(font
@@ -4223,7 +4385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 196.85 58.42 90)
 			(effects
 				(font
@@ -4252,6 +4414,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 196.85 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 196.85 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4302,7 +4473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 234.95 78.74 90)
 			(effects
 				(font
@@ -4331,6 +4502,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 234.95 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 234.95 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4381,7 +4561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Scouts:5mm LED"
+		(property "Footprint" "Scouts:Scouts - 5mm LED"
 			(at 223.52 58.42 90)
 			(effects
 				(font
@@ -4410,6 +4590,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 223.52 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 223.52 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4458,7 +4647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Scouts:Scouts - Resistor (10.16mm)"
 			(at 176.53 55.88 0)
 			(effects
 				(font
@@ -4478,6 +4667,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 176.53 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 176.53 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4528,7 +4726,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Scouts:DIP 8"
+		(property "Footprint" "Scouts:Scouts - DIP 8"
 			(at 123.19 58.42 0)
 			(effects
 				(font
@@ -4548,6 +4746,15 @@
 			)
 		)
 		(property "Description" "20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, DIP-8"
+			(at 123.19 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 123.19 58.42 0)
 			(effects
 				(font
