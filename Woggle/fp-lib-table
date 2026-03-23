@@ -1,4 +1,4 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "Scouts")(type "KiCad")(uri "${KIPRJMOD}/footprint.pretty")(options "")(descr "Scouting Symbols"))
+	(version 7)
+	(lib (name "KiCad Footprints") (type "KiCad") (uri "${KIPRJMOD}/Common/Footprints") (options "") (descr ""))
 )
