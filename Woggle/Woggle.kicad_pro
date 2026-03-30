@@ -631,6 +631,12 @@
           "label": "code",
           "name": "code",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Partsbox",
+          "name": "Partsbox",
+          "show": false
         }
       ],
       "filter_string": "",

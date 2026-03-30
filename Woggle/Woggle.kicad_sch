@@ -3532,6 +3532,16 @@
 				)
 			)
 		)
+		(property "Partsbox" "https://partsbox.com/I8qavxdzrbtk0cbqmj9drhp6w6g"
+			(at 123.19 229.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fb4386c4-9d3f-44fe-8ef6-b308c2bf95a8")
 		)
@@ -4381,6 +4391,17 @@
 				)
 			)
 		)
+		(property "Partsbox" "https://partsbox.com/I8qavxdzrbtk0cbqmj9drhp6w6g"
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ce852a9-b628-4d96-b1e7-405a0bd5624c")
 		)
@@ -4462,6 +4483,17 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 176.53 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Partsbox" "https://partsbox.com/I8qavxdzrbtk0cbqmj9drhp6w6g"
 			(at 176.53 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -5247,6 +5279,16 @@
 		(property "Sim.Device" ""
 			(at 176.53 55.88 90)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Partsbox" "https://partsbox.com/I8qavxdzrbtk0cbqmj9drhp6w6g"
+			(at 120.65 232.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
