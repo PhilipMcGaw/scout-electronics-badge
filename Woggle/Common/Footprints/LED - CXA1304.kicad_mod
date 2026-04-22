@@ -1,12 +1,12 @@
 (footprint "LED - CXA1304"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -5.715 -7.62 0)
 		(layer "F.SilkS")
-		(uuid "46fdc737-f333-4df3-b8a5-5a55b222a369")
+		(uuid "db6bcd89-f35e-4850-b956-5aa3828e1b00")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -17,7 +17,7 @@
 	(property "Value" "CXA1304"
 		(at 5.08 7.62 0)
 		(layer "F.Fab")
-		(uuid "2edc7b50-70d4-4aa5-a923-ec42ace5c18f")
+		(uuid "ba040889-4dee-495a-b049-bf0e0031ddb9")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "85fdd5f7-9c18-4a4c-964c-f5dc62801ccc")
+		(uuid "0f20e34d-3ef7-4e57-a837-d280b88c1c69")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "54a0e8b6-88ba-4068-b321-2a77180ba126")
+		(uuid "ad850ef6-9d41-432e-b0a9-31921bc9003b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,7 +53,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "60114f89-fc5e-4cde-8ded-a113a1697278")
+		(uuid "aea6ec46-feeb-41a2-873d-e3c3fed0098f")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -62,6 +62,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -6.675 -6.675)
 		(end -6.675 6.675)
@@ -70,7 +71,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "262e22a8-d34e-4f62-af60-c2b1f7acc6b4")
+		(uuid "b5b2d2c5-1797-4520-9d21-733e0334c061")
 	)
 	(fp_line
 		(start -6.675 -6.675)
@@ -80,7 +81,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "d1e6147d-e402-4440-ac15-c605af99c729")
+		(uuid "f39b4dd7-244a-41fb-a0b1-29aa88965ed4")
 	)
 	(fp_line
 		(start -6.675 6.675)
@@ -90,7 +91,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0bb3ded1-47b9-4b41-93a8-761ad069a2c5")
+		(uuid "b2821450-d953-412e-872b-099a882a1fd7")
 	)
 	(fp_line
 		(start -5.455 2.855)
@@ -100,7 +101,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a8cb38cb-23aa-4828-9099-1557652c29fa")
+		(uuid "57430e9a-c810-4796-9909-48efc74f78b3")
 	)
 	(fp_line
 		(start -5.455 2.855)
@@ -110,7 +111,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "721d7788-cc16-40e9-b034-1db23ea56918")
+		(uuid "a79ee862-3ef5-4da8-be97-d891f7ed36c6")
 	)
 	(fp_line
 		(start -5.455 5.455)
@@ -120,7 +121,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "272dd028-a317-4259-a293-d1dd2c8f4fff")
+		(uuid "6c25bd05-3a82-4f07-af30-83c2634e39eb")
 	)
 	(fp_line
 		(start 1.524 -5.08)
@@ -130,7 +131,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0d294c5e-c255-46d4-bc21-688cf0b4440f")
+		(uuid "160fbbfb-ca27-41fb-84a5-079abb15b9ba")
 	)
 	(fp_line
 		(start 2.032 -5.588)
@@ -140,7 +141,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "46cd3251-9e0e-4c5f-b8b1-ab72cc0fe954")
+		(uuid "da175a4f-6f1f-4bed-84ef-7d9724339c16")
 	)
 	(fp_line
 		(start 2.855 -5.455)
@@ -150,7 +151,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c30b9ff4-e061-4c90-a472-b45280481f68")
+		(uuid "1d8aa600-188c-41bf-a48a-d3e192666651")
 	)
 	(fp_line
 		(start 5.455 -5.455)
@@ -160,7 +161,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "5ff07ab8-935d-4a63-9765-d4896a767494")
+		(uuid "6ae2bd64-534a-4420-9f3f-259827a4dd1a")
 	)
 	(fp_line
 		(start 5.455 -2.855)
@@ -170,7 +171,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "16fff91e-fec0-4c22-90d4-75f33a2b4051")
+		(uuid "7b38a11d-75d9-486b-a963-6e35f538dee7")
 	)
 	(fp_line
 		(start 6.675 -6.675)
@@ -180,7 +181,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c83a8181-cc70-4990-8902-e39ddd878e7e")
+		(uuid "48fe9317-c0b4-4a55-8d88-c2284ef3e0f5")
 	)
 	(fp_circle
 		(center 0 0)
@@ -191,22 +192,22 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "8beeb8a5-28b0-47eb-b507-c23fd39d5abc")
+		(uuid "e5bbb484-c450-498f-9c9a-4ddfe3fe41ec")
 	)
 	(pad "1" smd rect
 		(at -5.455 5.455 45)
 		(size 5 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "b6d1ca31-a605-41bd-b780-805c0f887c26")
+		(uuid "4a86987a-40af-49ae-80af-d4e00f8fa29c")
 	)
 	(pad "2" smd rect
 		(at 5.455 -5.455 45)
 		(size 5 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "1f4e1918-3fd2-4b55-9f13-5a4ef032a25a")
+		(uuid "8dffe48a-cc46-4075-962c-c44a119a0ffa")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/footprint.pretty/LED - CXA1304.step"
+	(model "${KIPRJMOD}/Common/Footprints/LED - CXA1304.step"
 		(offset
 			(xyz 0 0 0)
 		)
